@@ -1,7 +1,7 @@
 -- Citruszest color palette
 local colors = {
     background = "#051007",
-    foreground = "#e5e190",
+    foreground = "#b5b26a",
     visual = "#404040",
     cursor = '#273528',
     none = "NONE",
@@ -15,7 +15,7 @@ local colors = {
     turquoise_medium = "#82c666",
     white = "#b5b26a",
 
-    bright_black = "#172a1a",
+    bright_black = "#273528",
     bright_red = "#f3573d",
     bright_green = "#9cac31",
     bright_yellow = "#d2b03c",
